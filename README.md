@@ -9,4 +9,4 @@ This is some text
 
 ### This is an even smaller headline!
 
-![] (cake-banner.jpg)
+! [] (cake-banner.jpg)
