@@ -9,5 +9,5 @@ This is some text
 
 ### This is an even smaller headline!
 
-![](cake-banner.jpg)
+![cakes](cake-banner.jpg)
 
