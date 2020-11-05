@@ -8,3 +8,5 @@ This is some text
 * this is another one!
 
 ### This is an even smaller headline!
+
+![] (cake-banner.jpg)
